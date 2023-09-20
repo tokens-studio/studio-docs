@@ -1,0 +1,7 @@
+dist/**
+coverage/**
+storybook-static/**
+schema-editor
+docs
+amplify
+out
